@@ -13,6 +13,25 @@ _Organize ideas and collaborate using Markdown, a lightweight language for text 
 
 </header>
 
+## Contoh Gambar
+
+![Markdown Logo](https://markdown-here.com/img/icon256.png)
+
+## Contoh Kode
+
+```python
+def hello_markdown():
+  print("Hello, Markdown!")
+```
+
+## Daftar Tugas
+
+- [x] Menambahkan header
+- [x] Menambahkan gambar
+- [x] Menambahkan contoh kode
+- [ ] Membuat daftar tugas
+- [ ] Melakukan merge pull request
+
 <!--
   <<< Author notes: Course start >>>
   Include start button, a note about Actions minutes,
@@ -68,10 +87,9 @@ In this course, you will:
   Add a link to get support, GitHub status page, code of conduct, license link.
 -->
 
----
+## Kursus: Communicate using Markdown
 
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/communicate-using-markdown) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
-
+_Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 &copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
 
 </footer>
